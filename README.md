@@ -1,0 +1,3 @@
+# ViewPager-NavigationBar
+在导航栏上实现一个标题的Viewpager
+使用HMSegmentedControl这个框架,很好用
